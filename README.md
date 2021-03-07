@@ -1,5 +1,6 @@
 # sample-repo
 this is just for learning purpose
 
-Now we are goint to see how you can upadte or edit the reposotory and save changes()commit.
-hello from Experimental branch
+------------------- --------------------------------------
+we are adding this line into this file and commiting changes.
+-----------------------------------------------------------
